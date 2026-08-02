@@ -12,26 +12,26 @@
 
 <br>
 
-<img align="left" width="380" hspace="25" src="https://github.com/DayleSacoto/DayleSacoto/blob/main/Coding.gif?raw=true" alt="About me GIF" />
+<img align="left" width="450" src="https://github.com/DayleSacoto/DayleSacoto/blob/main/Coding_right_padding.gif?raw=true" alt="About me GIF" />
 
-### 💫 About Me
+<h3 align="left">💫 About Me</h3>
 
 🌱 Slowly leveling up my web & app development skills<br>
 🛠️ I work with HTML, CSS, JS/TS, React, Node.js, Java & Kotlin<br>
 💬 I love Discord bots and everything related to them<br>
 😅 Officially the laziest developer, but something ships every now and then
 
-### 🧲 Get in Touch
+<h3 align="left">🧲 Get in Touch</h3>
 
-[![Discord](https://img.shields.io/badge/Discord-DayleSacoto-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/401363666601246720)
-[![GitHub](https://img.shields.io/badge/GitHub-DayleSacoto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DayleSacoto)
+<a href="https://discord.com/users/401363666601246720" target="_blank"><img src="https://img.shields.io/badge/Discord-DayleSacoto-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/DayleSacoto" target="_blank"><img src="https://img.shields.io/badge/GitHub-DayleSacoto-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <br clear="left"/>
 
 <br>
 <div align="center">
 
-### ✨ Languages & Tools I've Worked With
+<h3 align="center">✨ Languages & Tools I've Worked With</h3>
 
 [![Languages & Tools](https://skillicons.dev/icons?i=ts,js,kotlin,java,cpp,rust,clojure,nodejs,react,nextjs,tailwind,html,css,mongodb,electron,bash,git,gitlab,debian,figma,obsidian,vim,neovim,cf&perline=8)](https://skillicons.dev)
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-### 🛠️ My Core Tech Stack
+<h3 align="center">🛠️ My Core Tech Stack</h3>
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
